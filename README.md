@@ -25,3 +25,6 @@ create a directory, let say `myVideo` in this directory and a file `myVideo1.jso
 
 then edit [`tts.sh`](./tts.sh) to set the json file to send to google API and the mp3 audio file to create
 
+![image](https://user-images.githubusercontent.com/16659140/148720577-f47899a2-74aa-47a9-817e-1179ab1b5b2a.png)
+
+
