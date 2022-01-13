@@ -1,0 +1,13 @@
+{
+    "input":{
+      "text":"You can then pull the images using docker compose"
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+}

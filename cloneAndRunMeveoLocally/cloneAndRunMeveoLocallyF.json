@@ -1,0 +1,13 @@
+{
+    "input":{
+      "text":"Then login using default username meveo.admin and password meveo."
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+}
