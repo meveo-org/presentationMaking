@@ -1,0 +1,13 @@
+{
+    "input":{
+      "text":"By going to the module menu, you can check that the module is now installed"
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+  }

@@ -1,0 +1,13 @@
+{
+    "input":{
+      "text":"Once you cloned a git repository that is a module, click on its name to access its detail page."
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+  }

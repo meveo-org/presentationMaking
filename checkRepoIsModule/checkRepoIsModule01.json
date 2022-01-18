@@ -1,0 +1,13 @@
+{
+    "input":{
+      "text":"To check that your git repository is a module, go to the Execution, File explorer, menu."
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+}
