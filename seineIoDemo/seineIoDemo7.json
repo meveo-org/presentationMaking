@@ -1,0 +1,16 @@
+{
+    "input":{
+      "text":"After some period or under other condition the vote can start."
+      "and voters are able to individually cast their vote."
+      "the vote itself is a message signed by the voter and containing its address, 
+      the id of the proposal and aggrement or refusal of the resolution"
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+}

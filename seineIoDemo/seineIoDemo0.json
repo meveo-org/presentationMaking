@@ -1,6 +1,6 @@
 {
     "input":{
-      "text":"and verify that its fuctions have correctly been imported and compiled."
+      "text":"Welcome everyone, My name is Sébastien Michéa, i am software architect and CTO at seine.io"
     },
     "voice":{
       "languageCode":"en-gb",
@@ -10,4 +10,4 @@
     "audioConfig":{
       "audioEncoding":"MP3"
     }
-  }
+}

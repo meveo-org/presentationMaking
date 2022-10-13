@@ -1,6 +1,7 @@
 {
     "input":{
-      "text":"To know more about meveo, please check our website 'https://meveo.org'."
+      "text":"A proposal is created, and registered to organizer 1.
+       Note that in this demo it contains a single resolution that voters can simply agree with or refuse."
     },
     "voice":{
       "languageCode":"en-gb",

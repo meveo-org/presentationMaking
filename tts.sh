@@ -4,7 +4,7 @@ echo "Call google tts service."
 curl -X POST \
 -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \
 -H "Content-Type: application/json; charset=utf-8" \
--d @installModuleFromGitRepo/installModuleFromGitRepo7.json \
+-d @seineIoDemo/seineIoDemo1.json \
 "https://texttospeech.googleapis.com/v1/text:synthesize" > json_response.json
 
 

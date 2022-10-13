@@ -1,0 +1,29 @@
+{
+    "input":{
+      "text":"As soon as the vote finishes the automated tally is performed."
+      "since this vote counting is performed offchain by each organizer"
+      "they have to provide a formal proof that each voter voted once, "
+      "was part of the registered voters and that the counting has been performed correctly."
+      "To achieve this, the counting algorithm is coded in cairo, 
+      "a language that allows to write programs for which we easily compute a proof."
+      "Each organizer creates such a program with hints, hints the part he only sees, containing
+      the voters Ids, vote result and voter's signature"
+      "the proof is then computed and published by the organizers."
+      "finally they mutually sign a transaction sent to the id of the proposal,
+       id which is in fact a genuine XRP Account address, containing the counting of the votes of each"
+       "organizer and a hash of their proof"
+       "Once written in the XRP Ledger, each voter has the ability to check the result of the vote"
+       "and to verify that its personal vote has been correctly accounted for."
+
+       "This is the end of this presentation, i hope you enjoyed it, you'll find under the video the link the"
+       " to git repository tat contain the source code of this demo. Thank you"
+    },
+    "voice":{
+      "languageCode":"en-gb",
+      "name":"en-GB-Standard-A",
+      "ssmlGender":"MALE"
+    },
+    "audioConfig":{
+      "audioEncoding":"MP3"
+    }
+}

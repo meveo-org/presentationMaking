@@ -6,6 +6,16 @@ Video editing : https://www.canva.com/
 
 Text to speech : google API (below)
 
+Extract image :
+```
+ffmpeg -ss 00:00:16.50 -i seine-io-demo1.mp4 -frames:v 1 image1.jpg
+```
+
+Remove audio :
+
+```
+ffmpeg -i seine-io-demo1.mp4 -c copy -an seine-io-demo1-nosound.mp4
+```
 ## To create voice for your video
 
 this tool use google test-to-speech API to create mp3 for presentation videos.
